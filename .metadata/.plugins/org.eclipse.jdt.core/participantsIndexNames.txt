@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+E:\do an\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\624591488.index
+\DoAnTotNghiepHaUI-main\src\main\resources
+E:\do an\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2317626693.index
+\DoAnTotNghiepHaUI-main\src\main\resources
+E:\do an\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1515597608.index
+\DoAnTotNghiepHaUI-main\src\main\resources
+E:\do an\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4241046487.index
+\DoAnTotNghiepHaUI-main\src\main\resources
